@@ -1,6 +1,6 @@
 package menu.commands;
 
-import Iface.IFace;
+import iface.IFace;
 import editprofile.commands.EditProfileController;
 import models.Community;
 import models.Messages;

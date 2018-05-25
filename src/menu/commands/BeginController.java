@@ -1,6 +1,6 @@
 package menu.commands;
 
-import Iface.IFace;
+import iface.IFace;
 import menu.commands.begin.BeginExitCommand;
 import menu.commands.begin.BeginLoginCommand;
 import menu.commands.begin.BeginNullCommand;

@@ -1,4 +1,4 @@
-package Iface;
+package iface;
 
 public class Main {
 	

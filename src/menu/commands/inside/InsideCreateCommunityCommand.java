@@ -1,6 +1,6 @@
 package menu.commands.inside;
 
-import Iface.IFace;
+import iface.IFace;
 import menu.commands.Inside;
 import utils.Command;
 

@@ -1,6 +1,6 @@
 package utils;
 
-import Iface.IFace;
+import iface.IFace;
 
 public interface Command {
 	public void execute(IFace iface);

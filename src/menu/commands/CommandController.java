@@ -1,6 +1,6 @@
 package menu.commands;
 
-import Iface.IFace;
+import iface.IFace;
 
 public interface CommandController {
 

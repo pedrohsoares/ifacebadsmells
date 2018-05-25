@@ -1,4 +1,4 @@
-package Iface;
+package iface;
 import java.util.*;
 
 public class Menu {

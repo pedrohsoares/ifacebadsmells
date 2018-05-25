@@ -1,6 +1,6 @@
 package menu.commands;
 
-import Iface.IFace;
+import iface.IFace;
 import menu.commands.inside.InsideAddFriendCommand;
 import menu.commands.inside.InsideCreateCommunityCommand;
 import menu.commands.inside.InsideDeleteAccountCommand;
